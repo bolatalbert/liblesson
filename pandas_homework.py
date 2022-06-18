@@ -34,5 +34,5 @@ df_max = pd.DataFrame(c["price"].max())
 print("Средняя цена для каждого автора: {}".format(df_mean))
 print("Минимальная цена для каждого автора: {}".format(df_min))
 print("Максимальная цена для каждого автора: {}".format(df_max))
-
+#конец
 
